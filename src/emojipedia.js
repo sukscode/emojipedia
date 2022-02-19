@@ -19,6 +19,25 @@ const emojipedia = [
       name: "Rolling On The Floor, Laughing",
       meaning:
         "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+    },
+    {
+        id:4,
+        emoji:"😍",
+        name:"Smiling Face With Heart-Eyes",
+        meaning:"Happily beaming face with heart-shaped eyes. Insanely in love: with a person, a place or an object. Expresses the extent of love and affection as well as gratitude and is often part of romantic messages. Just does not know what to do with all the luck."
+    },
+    {
+        id:5,
+        emoji:"🤓",
+        name:"Nerd Face",
+        meaning:"Huge glasses, awkward smile and buck teeth. Used humorously or ironically for nerds or to express how smart you are. Stereotype of a nerd; a smart but funny-dressed person with social deficits"
+    },
+    {
+        id:6,
+        emoji:"🤨 ",
+        name:" Face With a Raised Eyebrow",
+        meaning:"With the questioning look on the face, resembles the actor “The Rock“ (Dwayne Johnson). Can be used to express skepticism, disbelief or disapproval."
     }
   ];
+  export default emojipedia;
   
